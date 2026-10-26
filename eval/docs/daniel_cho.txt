@@ -1,0 +1,21 @@
+Daniel Cho
+San Francisco, CA | daniel.cho@example.com
+
+EXPERIENCE
+
+Frontend Engineer, Orbit Travel, San Francisco, CA (Mar 2022 to Present)
+- Rebuilt the booking flow in React and TypeScript, raising mobile conversion by 22%
+- Cut JavaScript bundle size by 48% with code splitting
+- Led an accessibility audit to meet WCAG 2.1 AA
+
+Web Developer, Saltwater Agency, Oakland, CA (Aug 2019 to Feb 2022)
+- Built 25+ marketing sites with Next.js
+- Set up end-to-end testing with Cypress for client projects
+
+EDUCATION
+
+B.A. in Cognitive Science, UC Berkeley, 2019
+
+SKILLS
+
+React, TypeScript, Next.js, GraphQL, Jest, Cypress, Figma

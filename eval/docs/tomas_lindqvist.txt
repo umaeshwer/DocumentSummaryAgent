@@ -1,0 +1,25 @@
+Tomas Lindqvist
+Denver, CO | tomas.lindqvist@example.com
+
+EXPERIENCE
+
+Data Engineer, Summit Energy, Denver, CO (May 2020 to Present)
+- Built streaming pipelines with Apache Kafka and Spark Structured Streaming for smart meter data
+- Processed 2 billion meter readings per day
+- Reduced pipeline failures by 70% by adding data quality checks with Great Expectations
+
+Junior Data Engineer, Arcadia Analytics, Boulder, CO (Jun 2018 to Apr 2020)
+- Maintained Airflow DAGs for ETL into Redshift
+- Migrated 200 legacy cron jobs to Airflow
+
+EDUCATION
+
+B.S. in Physics, University of Colorado Boulder, 2018
+
+SKILLS
+
+Python, Scala, Spark, Kafka, Airflow, dbt, Redshift, Databricks
+
+CERTIFICATIONS
+
+Databricks Certified Data Engineer Associate (2022)

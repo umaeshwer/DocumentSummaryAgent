@@ -1,0 +1,22 @@
+Aisha Karimi
+Boston, MA | aisha.karimi@example.com
+
+EXPERIENCE
+
+Clinical Data Analyst, Meridian Research Hospital, Boston, MA (Oct 2021 to Present)
+- Analyzed patient outcomes for 14 clinical trials using R and SAS
+- Built survival analysis models to estimate time to hospital readmission
+- Created REDCap data entry forms used by 9 study sites
+
+Biostatistics Intern, Pioneer Pharma, Cambridge, MA (Jun 2021 to Sep 2021)
+- Validated adverse event tables for an FDA submission
+- Wrote SAS macros to standardize trial reporting
+
+EDUCATION
+
+M.P.H. in Biostatistics, Boston University, 2021
+B.S. in Biology, Northeastern University, 2019
+
+SKILLS
+
+R, SAS, SQL, survival analysis, REDCap, Python

@@ -1,0 +1,22 @@
+Kwame Mensah
+Atlanta, GA | kwame.mensah@example.com
+
+EXPERIENCE
+
+Machine Learning Engineer, Veritas AI, Remote (Apr 2023 to Present)
+- Fine-tuned a BERT-based classifier for support ticket routing with 92% accuracy
+- Deployed models on AWS SageMaker with automated weekly retraining
+- Reduced inference cost by 35% through model distillation
+
+Research Assistant, Georgia Institute of Technology, Atlanta, GA (Aug 2021 to Mar 2023)
+- Published a paper on low-resource machine translation for Twi at an ACL 2022 workshop
+- Collected and cleaned a parallel corpus of 50,000 sentence pairs
+
+EDUCATION
+
+M.S. in Computer Science, Georgia Institute of Technology, 2023
+B.Sc. in Computer Engineering, Kwame Nkrumah University of Science and Technology, 2020
+
+SKILLS
+
+Python, PyTorch, Hugging Face Transformers, AWS SageMaker, Docker, MLflow

@@ -1,0 +1,22 @@
+Hannah Okafor
+New York, NY | hannah.okafor@example.com
+
+EXPERIENCE
+
+Senior Product Manager, Brightline Learning, New York, NY (Feb 2021 to Present)
+- Launched an adaptive quiz feature used by 1.2 million students
+- Grew weekly active users by 40% in 12 months
+- Owned a product roadmap across 3 engineering teams
+
+Associate Product Manager, Tidewater Media, New York, NY (Jul 2018 to Jan 2021)
+- Shipped a paywall redesign that lifted subscription conversion by 15%
+- Ran customer interviews with 80 subscribers to prioritize features
+
+EDUCATION
+
+MBA, Columbia Business School, 2018
+B.A. in Economics, Howard University, 2015
+
+SKILLS
+
+Product discovery, SQL, Amplitude, Jira, experimentation

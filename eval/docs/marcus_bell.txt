@@ -1,0 +1,21 @@
+Marcus Bell
+Austin, TX | marcus.bell@example.com
+
+EXPERIENCE
+
+Software Engineer II, Lumen Payments, Austin, TX (Jan 2021 to Present)
+- Migrated the payment ledger service from a monolith to Go microservices handling 3,000 requests per second
+- Cut p99 latency from 450 ms to 120 ms by adding Redis caching
+- Served as on-call lead for the checkout platform
+
+Software Engineer, Cobalt Health, Dallas, TX (Jun 2018 to Dec 2020)
+- Built HIPAA-compliant REST APIs in Java Spring Boot
+- Wrote integration tests that raised code coverage from 55% to 80%
+
+EDUCATION
+
+B.S. in Computer Science, Texas A&M University, 2018
+
+SKILLS
+
+Go, Java, Kubernetes, PostgreSQL, Redis, Kafka, Terraform

@@ -1,0 +1,50 @@
+{"id": "q01", "doc": "priya_raman.txt", "question": "Where does Priya Raman currently work?", "answer": "Northwind Logistics", "answerable": true}
+{"id": "q02", "doc": "priya_raman.txt", "question": "By how much did Priya Raman's demand forecasting model reduce warehouse stockouts?", "answer": "18%", "answerable": true}
+{"id": "q03", "doc": "priya_raman.txt", "question": "How many data scientists did Priya Raman lead?", "answer": "4", "answerable": true}
+{"id": "q04", "doc": "priya_raman.txt", "question": "Which university did Priya Raman get her master's degree from?", "answer": "University of Washington", "answerable": true}
+{"id": "q05", "doc": "priya_raman.txt", "question": "What certification does Priya Raman hold?", "answer": "AWS Certified Machine Learning - Specialty", "answerable": true}
+{"id": "q06", "doc": "marcus_bell.txt", "question": "What language were Marcus Bell's payment ledger microservices written in?", "answer": "Go", "answerable": true}
+{"id": "q07", "doc": "marcus_bell.txt", "question": "How many requests per second do Marcus Bell's microservices handle?", "answer": "3,000 requests per second", "answerable": true}
+{"id": "q08", "doc": "marcus_bell.txt", "question": "What was the p99 latency after Marcus Bell added Redis caching?", "answer": "120 ms", "answerable": true}
+{"id": "q09", "doc": "marcus_bell.txt", "question": "Which company did Marcus Bell work at before Lumen Payments?", "answer": "Cobalt Health", "answerable": true}
+{"id": "q10", "doc": "marcus_bell.txt", "question": "Where did Marcus Bell get his bachelor's degree?", "answer": "Texas A&M University", "answerable": true}
+{"id": "q11", "doc": "elena_vasquez.txt", "question": "How many moderated usability studies has Elena Vasquez run?", "answer": "60+", "answerable": true}
+{"id": "q12", "doc": "elena_vasquez.txt", "question": "What task completion rate did the claims app reach after Elena Vasquez's work?", "answer": "89%", "answerable": true}
+{"id": "q13", "doc": "elena_vasquez.txt", "question": "What field is Elena Vasquez's master's degree in?", "answer": "Human-Computer Interaction", "answerable": true}
+{"id": "q14", "doc": "elena_vasquez.txt", "question": "Which survey tool does Elena Vasquez list in her skills?", "answer": "Qualtrics", "answerable": true}
+{"id": "q15", "doc": "elena_vasquez.txt", "question": "How many junior researchers has Elena Vasquez mentored?", "answer": "3", "answerable": true}
+{"id": "q16", "doc": "kwame_mensah.txt", "question": "What accuracy did Kwame Mensah's support ticket classifier achieve?", "answer": "92%", "answerable": true}
+{"id": "q17", "doc": "kwame_mensah.txt", "question": "By how much did Kwame Mensah reduce inference cost?", "answer": "35%", "answerable": true}
+{"id": "q18", "doc": "kwame_mensah.txt", "question": "What technique did Kwame Mensah use to reduce inference cost?", "answer": "model distillation", "answerable": true}
+{"id": "q19", "doc": "kwame_mensah.txt", "question": "Which low-resource language did Kwame Mensah's machine translation paper focus on?", "answer": "Twi", "answerable": true}
+{"id": "q20", "doc": "kwame_mensah.txt", "question": "Where did Kwame Mensah complete his undergraduate degree?", "answer": "Kwame Nkrumah University of Science and Technology", "answerable": true}
+{"id": "q21", "doc": "hannah_okafor.txt", "question": "How many students used Hannah Okafor's adaptive quiz feature?", "answer": "1.2 million students", "answerable": true}
+{"id": "q22", "doc": "hannah_okafor.txt", "question": "By how much did Hannah Okafor grow weekly active users?", "answer": "40%", "answerable": true}
+{"id": "q23", "doc": "hannah_okafor.txt", "question": "How much did Hannah Okafor's paywall redesign lift subscription conversion?", "answer": "15%", "answerable": true}
+{"id": "q24", "doc": "hannah_okafor.txt", "question": "Which school did Hannah Okafor get her MBA from?", "answer": "Columbia Business School", "answerable": true}
+{"id": "q25", "doc": "hannah_okafor.txt", "question": "How many engineering teams did Hannah Okafor's roadmap span?", "answer": "3", "answerable": true}
+{"id": "q26", "doc": "tomas_lindqvist.txt", "question": "How many meter readings per day do Tomas Lindqvist's pipelines process?", "answer": "2 billion", "answerable": true}
+{"id": "q27", "doc": "tomas_lindqvist.txt", "question": "By how much did Tomas Lindqvist reduce pipeline failures?", "answer": "70%", "answerable": true}
+{"id": "q28", "doc": "tomas_lindqvist.txt", "question": "Which tool did Tomas Lindqvist use for data quality checks?", "answer": "Great Expectations", "answerable": true}
+{"id": "q29", "doc": "tomas_lindqvist.txt", "question": "What did Tomas Lindqvist study for his bachelor's degree?", "answer": "Physics", "answerable": true}
+{"id": "q30", "doc": "tomas_lindqvist.txt", "question": "What certification does Tomas Lindqvist hold?", "answer": "Databricks Certified Data Engineer Associate", "answerable": true}
+{"id": "q31", "doc": "aisha_karimi.txt", "question": "How many clinical trials has Aisha Karimi analyzed patient outcomes for?", "answer": "14", "answerable": true}
+{"id": "q32", "doc": "aisha_karimi.txt", "question": "What type of models did Aisha Karimi build to estimate time to readmission?", "answer": "survival analysis", "answerable": true}
+{"id": "q33", "doc": "aisha_karimi.txt", "question": "How many study sites use Aisha Karimi's REDCap forms?", "answer": "9", "answerable": true}
+{"id": "q34", "doc": "aisha_karimi.txt", "question": "Which company did Aisha Karimi intern at?", "answer": "Pioneer Pharma", "answerable": true}
+{"id": "q35", "doc": "aisha_karimi.txt", "question": "What graduate degree does Aisha Karimi hold?", "answer": "M.P.H. in Biostatistics", "answerable": true}
+{"id": "q36", "doc": "daniel_cho.txt", "question": "By how much did Daniel Cho's booking flow rebuild raise mobile conversion?", "answer": "22%", "answerable": true}
+{"id": "q37", "doc": "daniel_cho.txt", "question": "How much did Daniel Cho cut the JavaScript bundle size?", "answer": "48%", "answerable": true}
+{"id": "q38", "doc": "daniel_cho.txt", "question": "Which accessibility standard did Daniel Cho's audit target?", "answer": "WCAG 2.1 AA", "answerable": true}
+{"id": "q39", "doc": "daniel_cho.txt", "question": "Which framework did Daniel Cho use to build marketing sites?", "answer": "Next.js", "answerable": true}
+{"id": "q40", "doc": "daniel_cho.txt", "question": "What did Daniel Cho study at UC Berkeley?", "answer": "Cognitive Science", "answerable": true}
+{"id": "q41", "doc": "priya_raman.txt", "question": "What was Priya Raman's GPA?", "answer": "I don't know", "answerable": false}
+{"id": "q42", "doc": "priya_raman.txt", "question": "Which conferences has Priya Raman spoken at?", "answer": "I don't know", "answerable": false}
+{"id": "q43", "doc": "marcus_bell.txt", "question": "What certifications does Marcus Bell hold?", "answer": "I don't know", "answerable": false}
+{"id": "q44", "doc": "marcus_bell.txt", "question": "What is Marcus Bell's current salary?", "answer": "I don't know", "answerable": false}
+{"id": "q45", "doc": "elena_vasquez.txt", "question": "What salary is Elena Vasquez expecting?", "answer": "I don't know", "answerable": false}
+{"id": "q46", "doc": "kwame_mensah.txt", "question": "What is Kwame Mensah's phone number?", "answer": "I don't know", "answerable": false}
+{"id": "q47", "doc": "hannah_okafor.txt", "question": "What is Hannah Okafor's notice period?", "answer": "I don't know", "answerable": false}
+{"id": "q48", "doc": "tomas_lindqvist.txt", "question": "Does Tomas Lindqvist prefer remote or in-office work?", "answer": "I don't know", "answerable": false}
+{"id": "q49", "doc": "aisha_karimi.txt", "question": "What was Aisha Karimi's GPA at Boston University?", "answer": "I don't know", "answerable": false}
+{"id": "q50", "doc": "daniel_cho.txt", "question": "Who are Daniel Cho's professional references?", "answer": "I don't know", "answerable": false}
