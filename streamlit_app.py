@@ -3,11 +3,11 @@ from app.utils import load_document, build_vectorstore, summarize_docs
 from app.graph import build_graph
 
 st.set_page_config(
-    page_title="Document Summary Agent Using Hugging Face",
+    page_title="Document Summary Agent",
     layout="wide"
 )
 
-st.title("Document Summary Agent Using Hugging Face")
+st.title("Document Summary Agent")
 
 if "vectorstore" not in st.session_state:
     st.session_state.vectorstore = None

@@ -1,0 +1,51 @@
+id,doc,answerable,question,reference,prediction,retrieved_right_doc,recall_hit,exact_match,f1,abstained
+q01,priya_raman.txt,True,Where does Priya Raman currently work?,Northwind Logistics,"Seattle, WA",True,True,0.0,0.0,False
+q02,priya_raman.txt,True,By how much did Priya Raman's demand forecasting model reduce warehouse stockouts?,18%,18%,True,True,1.0,1.0,False
+q03,priya_raman.txt,True,How many data scientists did Priya Raman lead?,4,4,True,True,1.0,1.0,False
+q04,priya_raman.txt,True,Which university did Priya Raman get her master's degree from?,University of Washington,Columbia Business School,True,True,0.0,0.0,False
+q05,priya_raman.txt,True,What certification does Priya Raman hold?,AWS Certified Machine Learning - Specialty,AWS Certified Machine Learning - Specialty,True,True,1.0,1.0,False
+q06,marcus_bell.txt,True,What language were Marcus Bell's payment ledger microservices written in?,Go,Go,True,True,1.0,1.0,False
+q07,marcus_bell.txt,True,How many requests per second do Marcus Bell's microservices handle?,"3,000 requests per second","3,000",True,True,0.0,0.4,False
+q08,marcus_bell.txt,True,What was the p99 latency after Marcus Bell added Redis caching?,120 ms,450 ms,True,True,0.0,0.5,False
+q09,marcus_bell.txt,True,Which company did Marcus Bell work at before Lumen Payments?,Cobalt Health,Cobalt Health,True,True,1.0,1.0,False
+q10,marcus_bell.txt,True,Where did Marcus Bell get his bachelor's degree?,Texas A&M University,Texas A&M University,True,True,1.0,1.0,False
+q11,elena_vasquez.txt,True,How many moderated usability studies has Elena Vasquez run?,60+,60+,True,True,1.0,1.0,False
+q12,elena_vasquez.txt,True,What task completion rate did the claims app reach after Elena Vasquez's work?,89%,89%,True,True,1.0,1.0,False
+q13,elena_vasquez.txt,True,What field is Elena Vasquez's master's degree in?,Human-Computer Interaction,Human-Computer Interaction,True,True,1.0,1.0,False
+q14,elena_vasquez.txt,True,Which survey tool does Elena Vasquez list in her skills?,Qualtrics,Qualtrics,True,True,1.0,1.0,False
+q15,elena_vasquez.txt,True,How many junior researchers has Elena Vasquez mentored?,3,3,True,True,1.0,1.0,False
+q16,kwame_mensah.txt,True,What accuracy did Kwame Mensah's support ticket classifier achieve?,92%,92%,True,True,1.0,1.0,False
+q17,kwame_mensah.txt,True,By how much did Kwame Mensah reduce inference cost?,35%,35%,True,True,1.0,1.0,False
+q18,kwame_mensah.txt,True,What technique did Kwame Mensah use to reduce inference cost?,model distillation,model distillation,True,True,1.0,1.0,False
+q19,kwame_mensah.txt,True,Which low-resource language did Kwame Mensah's machine translation paper focus on?,Twi,Twi,True,True,1.0,1.0,False
+q20,kwame_mensah.txt,True,Where did Kwame Mensah complete his undergraduate degree?,Kwame Nkrumah University of Science and Technology,Georgia Institute of Technology,True,True,0.0,0.364,False
+q21,hannah_okafor.txt,True,How many students used Hannah Okafor's adaptive quiz feature?,1.2 million students,1.2 million,True,True,0.0,0.8,False
+q22,hannah_okafor.txt,True,By how much did Hannah Okafor grow weekly active users?,40%,40%,True,True,1.0,1.0,False
+q23,hannah_okafor.txt,True,How much did Hannah Okafor's paywall redesign lift subscription conversion?,15%,15%,True,True,1.0,1.0,False
+q24,hannah_okafor.txt,True,Which school did Hannah Okafor get her MBA from?,Columbia Business School,Columbia Business School,True,True,1.0,1.0,False
+q25,hannah_okafor.txt,True,How many engineering teams did Hannah Okafor's roadmap span?,3,3,True,True,1.0,1.0,False
+q26,tomas_lindqvist.txt,True,How many meter readings per day do Tomas Lindqvist's pipelines process?,2 billion,2 billion,True,True,1.0,1.0,False
+q27,tomas_lindqvist.txt,True,By how much did Tomas Lindqvist reduce pipeline failures?,70%,70%,True,True,1.0,1.0,False
+q28,tomas_lindqvist.txt,True,Which tool did Tomas Lindqvist use for data quality checks?,Great Expectations,Great Expectations,True,True,1.0,1.0,False
+q29,tomas_lindqvist.txt,True,What did Tomas Lindqvist study for his bachelor's degree?,Physics,Cognitive Science,True,True,0.0,0.0,False
+q30,tomas_lindqvist.txt,True,What certification does Tomas Lindqvist hold?,Databricks Certified Data Engineer Associate,Databricks Certified Data Engineer Associate,True,True,1.0,1.0,False
+q31,aisha_karimi.txt,True,How many clinical trials has Aisha Karimi analyzed patient outcomes for?,14,14,True,True,1.0,1.0,False
+q32,aisha_karimi.txt,True,What type of models did Aisha Karimi build to estimate time to readmission?,survival analysis,survival analysis,True,True,1.0,1.0,False
+q33,aisha_karimi.txt,True,How many study sites use Aisha Karimi's REDCap forms?,9,9,True,True,1.0,1.0,False
+q34,aisha_karimi.txt,True,Which company did Aisha Karimi intern at?,Pioneer Pharma,I don't know,True,True,0.0,0.0,True
+q35,aisha_karimi.txt,True,What graduate degree does Aisha Karimi hold?,M.P.H. in Biostatistics,M.P.H. in Biostatistics,True,True,1.0,1.0,False
+q36,daniel_cho.txt,True,By how much did Daniel Cho's booking flow rebuild raise mobile conversion?,22%,22%,True,True,1.0,1.0,False
+q37,daniel_cho.txt,True,How much did Daniel Cho cut the JavaScript bundle size?,48%,48%,True,True,1.0,1.0,False
+q38,daniel_cho.txt,True,Which accessibility standard did Daniel Cho's audit target?,WCAG 2.1 AA,WCAG 2.1,True,True,0.0,0.8,False
+q39,daniel_cho.txt,True,Which framework did Daniel Cho use to build marketing sites?,Next.js,Next.js,True,True,1.0,1.0,False
+q40,daniel_cho.txt,True,What did Daniel Cho study at UC Berkeley?,Cognitive Science,Cognitive Science,True,True,1.0,1.0,False
+q41,priya_raman.txt,False,What was Priya Raman's GPA?,I don't know,I don't know,True,,,,True
+q42,priya_raman.txt,False,Which conferences has Priya Raman spoken at?,I don't know,I don't know,True,,,,True
+q43,marcus_bell.txt,False,What certifications does Marcus Bell hold?,I don't know,I don't know,True,,,,True
+q44,marcus_bell.txt,False,What is Marcus Bell's current salary?,I don't know,I don't know,True,,,,True
+q45,elena_vasquez.txt,False,What salary is Elena Vasquez expecting?,I don't know,I don't know,True,,,,True
+q46,kwame_mensah.txt,False,What is Kwame Mensah's phone number?,I don't know,I don't know,True,,,,True
+q47,hannah_okafor.txt,False,What is Hannah Okafor's notice period?,I don't know,I don't know,True,,,,True
+q48,tomas_lindqvist.txt,False,Does Tomas Lindqvist prefer remote or in-office work?,I don't know,I don't know,True,,,,True
+q49,aisha_karimi.txt,False,What was Aisha Karimi's GPA at Boston University?,I don't know,I don't know,True,,,,True
+q50,daniel_cho.txt,False,Who are Daniel Cho's professional references?,I don't know,Tomas Lindqvist,True,,,,False

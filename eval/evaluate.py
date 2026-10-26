@@ -84,9 +84,10 @@ def load_resumes():
 
 
 def main():
-    questions = [json.loads(line) for line in open(QUESTIONS_PATH, encoding="utf-8") if line.strip()]
+    with open(QUESTIONS_PATH, encoding="utf-8") as f:
+        questions = [json.loads(line) for line in f if line.strip()]
 
-    print(f"Indexing {len(os.listdir(DOCS_DIR))} resumes...")
+    print(f"Indexing {sum(1 for f in os.listdir(DOCS_DIR) if f.endswith('.txt'))} resumes...")
     vectorstore = build_vectorstore(load_resumes())
     retriever = vectorstore.as_retriever(search_kwargs={"k": K})
     graph = build_graph(vectorstore)
@@ -95,7 +96,7 @@ def main():
     for i, q in enumerate(questions, 1):
         retrieved = retriever.invoke(q["question"])
         right_doc = [c for c in retrieved if os.path.basename(c.metadata.get("source", "")) == q["doc"]]
-        hit = any(normalize(q["answer"]) in normalize(c.page_content) for c in right_doc)
+        hit = q["answerable"] and any(normalize(q["answer"]) in normalize(c.page_content) for c in right_doc)
 
         pred = str(graph.invoke({"query": q["question"]})["answer"]).strip()
 

@@ -17,16 +17,12 @@ def build_graph(vectorstore):
 
         context = "\n\n".join(d.page_content for d in docs)
 
-        prompt = f"""
-        Answer the question using ONLY the context below.
-        If the answer is not present, say "I don't know".
-
-        Context:
-        {context}
-
-        Question:
-        {state['query']}
-        """
+        prompt = (
+            f"Answer the question using ONLY the provided context. "
+            f"If the answer is not in the context, say \"I don't know\".\n\n"
+            f"Question: {state['query']}\n\n"
+            f"Context:\n{context}"
+        )
 
         response = llm.invoke(prompt)
         return {"answer": response}
